@@ -12,7 +12,7 @@
 <br/>
 <br/>
 <p>
-  Grid execise files :
+  Grid execise files
 </p>
 
 
