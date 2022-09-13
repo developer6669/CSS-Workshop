@@ -1,7 +1,7 @@
 
 
 <h1>
-  <img src='https://user-images.githubusercontent.com/87698767/189895099-c4e23376-c701-4d87-aac2-492913c9ee61.png' alt='' height='40' width='40' />
+  <img src='https://user-images.githubusercontent.com/87698767/189898674-69ab0263-3424-486a-bfa8-181b0d90c359.png' alt='' height='40' width='40' />
   My CSS Workshop
 </h1>
 
