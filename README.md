@@ -2,7 +2,7 @@
 
 <h1>
   <img src='https://user-images.githubusercontent.com/87698767/189895099-c4e23376-c701-4d87-aac2-492913c9ee61.png' alt='' height='40' width='40' />
-  My CSS Projects
+  My CSS Workshop
 </h1>
 
 <a href="https://www.developer6669.com">
@@ -12,11 +12,11 @@
 <br/>
 <br/>
 <p>
-  Hi,my name is meysam mahdinia , from iran mazadaran babol.I try to git my javascript projects and you can use them.These are my javascript projects :
+  Hi,my name is meysam mahdinia , from iran mazadaran babol.I try to git my css projects and you can use them.These are my css projects and exercises :
 </p>
 <br/>
 <a href="https://github.com/developer6669/JavaScript/tree/Calculator">
-  01) Simple Calculator
+  01) Css Grid (Learning Exercises)
 </a>
 
 <!---
